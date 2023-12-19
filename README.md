@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>I'm currently an undergraduate student majoring in Computer Science Engineering at Bennett University. I'm also interning as a Software Engineer at Encora INC., where I'm working on backend development using Python and FastAPI.<br><br>I have experience working on a variety of projects related to backend development, machine learning, and data science. I'm particularly passionate about using technology to solve real-world problems, and I'm always looking for new and innovative ways to use code to make a difference.
+Hi there 👋<br><br>I'm currently an undergraduate student majoring in Computer Science Engineering at Bennett University. I'm also working as a Software Engineer at Encora INC.<br><br>I have experience working on a variety of projects related to backend development, machine learning, and data science. I'm particularly passionate about using technology to solve real-world problems, and I'm always looking for new and innovative ways to use code to make a difference.
 
 
 ## 🌐 Socials:
