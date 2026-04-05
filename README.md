@@ -1,14 +1,88 @@
 # 💫 About Me:
-Hi there 👋<br><br>I'm currently an undergraduate student majoring in Computer Science Engineering at Bennett University. I'm also working as a Software Engineer at Encora INC.<br><br>I have experience working on a variety of projects related to backend development, machine learning, and data science. I'm particularly passionate about using technology to solve real-world problems, and I'm always looking for new and innovative ways to use code to make a difference.
+Hi there 👋  
 
+I'm Meghana Penmetsa, a Software Engineer with 3 years of experience building scalable backend systems and integrations.  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/meghana-penmetsa-3903071b4/) 
+I specialize in designing and deploying high-performance REST APIs, working with microservices architecture, and building reliable data pipelines for real-world applications.  
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
+Currently, I work at **Encora (Client: RealPage / Knock CRM)** where I develop and maintain backend systems powering property management workflows across multiple PMS platforms.  
+
+🔹 Built 12+ production-grade APIs  
+🔹 Worked on integrations across 6 PMS systems (Yardi, MRI, ResMan, Entrata, AppFolio, OneSite)  
+🔹 Improved deployment speed by ~60% using CI/CD pipelines  
+🔹 Reduced API latency and database load with optimized architecture  
+
+I enjoy solving complex backend problems, improving system performance, and working on scalable cloud-based solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=meghana2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meghana-penmetsa-3903071b4/)
+
+---
+
+# 💻 Tech Stack:
+
+### 👩‍💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=plastic&logo=database&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=plastic&logo=circleci)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+
+### 📊 Monitoring & Tools
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=plastic&logo=datadog&logoColor=white)
+![Git](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white)
+
+### 🧪 Testing
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=plastic&logo=pytest&logoColor=white)
+
+---
+
+## 🧠 What I Work On:
+- Scalable REST API development  
+- Microservices architecture  
+- PMS integrations & data synchronization  
+- CI/CD pipelines and deployment automation  
+- Performance optimization & caching  
+- Production debugging and incident resolution  
+
+---
+
+## 🏆 Achievements:
+🏅 Extra Ordinary Client Service Award – Encora  
+🎓 AWS AI/ML Scholarship  
+
+---
+
+## 📜 Certifications:
+- Generative AI with Large Language Models – DeepLearning.AI  
+- AI-Powered Software & System Design – DeepLearning.AI  
+- Fundamentals of AI Agents (RAG & LangChain) – IBM  
+- NVIDIA Deep Learning Certifications  
+
+---
+
+## 📈 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=meghana2002&theme=default&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=meghana2002&theme=default&hide_border=false)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=meghana2002&icon=0&color=0)](https://visitcount.itsvg.in)
